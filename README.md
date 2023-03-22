@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 [2] Zhu, J.-Y., et al. Unpaired image-to-image translation using cycle-consistent adversarial networks. in Proceedings of the IEEE international conference on computer vision. 2017.
 ________________________________________________________________________________________________________
-2) testing datasets 
+2) Testing datasets 
    [DepthFromNasalEndoscopy/Testing]
 
 - This dataset contains real endoscopic images taken inside a nasal airway phantom and the corresponding ground truth depth.
