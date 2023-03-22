@@ -67,6 +67,6 @@ ________________________________________________________________________________
 
 
 Should you have any question, please feel free to contact me at u3527192@connect.hku.hk
-Repository reated by Hon-Sing Tong
+Repository created by Hon-Sing Tong
 Date created: 18/01/2021
 
